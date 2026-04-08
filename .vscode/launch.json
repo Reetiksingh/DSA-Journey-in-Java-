@@ -1,0 +1,41 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "love",
+            "request": "launch",
+            "mainClass": "love",
+            "projectName": "Java_1e539d4a"
+        },
+        {
+            "type": "java",
+            "name": "Javabasics",
+            "request": "launch",
+            "mainClass": "Javabasics",
+            "projectName": "Java_1e539d4a"
+        },
+        {
+            "type": "java",
+            "name": "practise",
+            "request": "launch",
+            "mainClass": "practise",
+            "projectName": "Java_4d10e678"
+        },
+        {
+            "type": "java",
+            "name": "Javabasics",
+            "request": "launch",
+            "mainClass": "Javabasics",
+            "projectName": "Java_4d10e678"
+        },
+        {
+            "type": "java",
+            "name": "Run Javabasics with Preview",
+            "request": "launch",
+            "mainClass": "Javabasics",
+            "vmArgs": "--enable-preview -XX:+ShowCodeDetailsInExceptionMessages",
+            "projectName": "Java_4d10e678"
+        }
+    ]
+}
