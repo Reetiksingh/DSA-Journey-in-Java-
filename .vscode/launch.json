@@ -3,6 +3,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "primeornot",
+            "request": "launch",
+            "mainClass": "primeornot",
+            "projectName": "Java_1e539d4a"
+        },
+        {
+            "type": "java",
             "name": "love",
             "request": "launch",
             "mainClass": "love",
