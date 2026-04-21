@@ -1,4 +1,3 @@
-import java.util.*;
 
 public class binarysearch
 {
@@ -23,7 +22,7 @@ public class binarysearch
 
     public static void main(String[] args) {
         int number[] = { 2, 4, 6, 8, 10, 12, 14 };
-        int key = 14 ;
+        int key = 12 ;
         System.out.println("Index for key is: " + binarysearch(number, key));
 
     }
